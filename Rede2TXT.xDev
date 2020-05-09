@@ -1,0 +1,38 @@
+<!--
+################################################
+# xDevStudio Project - xdev@kssoftware.com.br  #
+# Created @ 09/05/2020 17:38:44                #
+#                                              #
+### Standard xDev Config - Layout v1.5 #########
+-->
+<project>
+   <option compiler="428283">
+   <option outputname="Rede2TXT">
+   <option targettype="EXE">
+   <option outputpath="">
+   <option root="($)">
+   <option runpath="">
+   <option runparams="">
+   <option pathch="">
+   <option pathlib="">
+   <option pathobj="">
+   <option pathtooutput="">
+   <option defines="">
+   <option webframework="">
+   <option webrootdir="">
+   <option documentroot="">
+   <option custombrowser="">
+   <option makeincfile="Não">
+   <option taskprepare="">
+   <option taskfinalize="">
+   <option taskgroupprepare="">
+   <option taskgroupfinalize="">
+
+   <compilerparam name="FiveWin32.xCompiler">
+      <option presetsname="428283">
+      <option rdd2="Sim">
+   </compilerparam>
+
+   <unit filename="principal.prg" main="true" compile="Sim">
+   <unit filename="datarow.prg" compile="Sim">
+</project>
